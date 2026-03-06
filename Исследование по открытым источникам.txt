@@ -1,0 +1,86 @@
+Исследуемый сайт: kovroviy-mir.ru/
+1. Ip адреса
+
+ 87.236.16.131
+
+2. DNS записи, Доменные имена
+
+; <<>> DiG 9.18.24-1-Debian <<>> kovroviy-mir.ru +noidnout -t A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23890
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;kovroviy-mir.ru. IN A
+
+;; ANSWER SECTION:
+kovroviy-mir.ru. 388 IN A 87.236.16.131
+
+;; Query time: 4 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Fri Mar 06 07:49:08 CET 2026
+;; MSG SIZE rcvd: 60
+
+Информация о домене:
+Владелец	Private Person
+Регистрация	2013-02-05 17:26:06
+Истекает	2027-02-05 18:26:06
+
+Доменное имя: kovroviy-mir.ru
+
+3. Регистрационные записи WHOIS
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+% Information related to '87.236.16.0 - 87.236.16.255'
+% Abuse contact for '87.236.16.0 - 87.236.16.255' is 'abuse@beget.ru'
+inetnum:        87.236.16.0 - 87.236.16.255
+netname:        BEGET-NET-20
+описание:          Beget Ltd
+country:        RU
+admin-c:        BGT2012-RIPE
+tech-c:         BGT2012-RIPE
+status:         ASSIGNED PA
+mnt-by:         BEGET-MNT
+создан:        2015.11.27 01:36:14 MSK
+last-modified:  2015-11-26T22:36:14Z
+источник:         RIPE
+% Information related to '87.236.16.0/24AS198610'
+route:          87.236.16.0/24
+описание:          BEGET.RU
+origin:         AS198610
+mnt-by:         BEGET-MNT
+создан:        2015.11.27 01:43:55 MSK
+last-modified:  2015-11-26T22:43:55Z
+источник:         RIPE
+% This query was served by the RIPE Database Query Service version 1.121 (SHETLAND)
+
+
+4. Информация о владельцах, сотрудниках.
+Генеральный директор: Королев Александр Сергеевич.
+  – ИНН: 7716770600
+  – ОГРН: 1157746060160
+  – Юр. адрес: 107140, г. Москва, ул. Верхняя Красносельская, д. 3, стр. 2 
+
+
+5. Их контакты, e-mail, любая другая информация.
+
+сайт предлагает использовать общие корпоративные контакты:
+• Телефон: +7 (495) 255-35-71
+• E-mail: info@kovroviy-mir.ru
+
+6. ПО на сервере, CMS для управления сайтом
+
+CMS: WordPress.
+ПО на сервере: 
+ Веб-сервер: nginx/1.18.0
+ Провайдер хостинга: TimeWeb
+ PHP
